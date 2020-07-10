@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
+        <title>Classification of Animals</title>
+        <style>
+            *{
+                box-sizing: border-box;
+            }
+            #ch {
+                background-color: crimson;
+            }
+            #hh {
+                background-color: greenyellow;
+            }
+            #oh {
+                background-color:purple;
+            }
+            h1 {               
+                text-align: center;
+            }
+            
+            h2 {
+                position: absolute;
+                margin:0px;
+                right:0px;
+                top:0px;
+                width:150px;
+                border:solid 1px black;
+                color: black;
+                text-align: center;                
+            }
+            p {
+                position:absolute;
+                top:50px;
+                margin:10px;
+            }
+            section {
+                float:left;
+                padding:20px;
+            }
+            div {
+                position: relative;
+                height:300px;
+                background-color: goldenrod;
+                color:white;
+                border:solid black 1px;
+            }
+
+
+            @media (min-width:992px){
+                section {
+                width:33.33% ;
+                }
+            }
+            @media (min-width:768px) and (max-width: 991px){
+                section {
+                width:50%;
+                }
+                #o {
+                width:100%;
+                }
+            }
+            @media (max-width: 767px){
+                section {
+                width: 100%;
+                }
+            }
+
+
+        </style>
+    </head>
+    <body>
+        <h1>Classification of Animals</h1>
+        <Section>
+            <div>
+            <h2 id="ch">Carnivores</h2>
+            <p>An animal that feeds on other animals.A carnivore , meaning "meat eater" (Latin, caro, genitive carnis, meaning "meat" or "flesh" and vorare meaning "to devour"), is an animal whose food and energy requirements derive solely from animal tissue or meat, whether through hunting or scavenging. Animals that depend solely on animal flesh for their nutrient requirements are called obligate carnivores while those that also consume non-animal food are called facultative carnivores.</p>
+            </div>
+        </Section>
+        <Section>
+            <div>
+            <h2 id=hh>Herbivores</h2>
+            <p>An animal that feeds on plants.A herbivore is an animal anatomically and physiologically adapted to eating plant material, for example foliage or marine algae, for the main component of its diet. As a result of their plant diet, herbivorous animals typically have mouthparts adapted to rasping or grinding. Horses and other herbivores have wide flat teeth that are adapted to grinding grass, tree bark, and other tough plant material.</p>
+            </div>
+        </Section>
+        <Section id="o">
+            <div>
+            <h2 id=oh>Omnivores</h2>
+            <p>An animal that feeds on both animals and plants.Omnivores come from diverse backgrounds that often independently evolved sophisticated consumption capabilities. For instance, dogs evolved from primarily carnivorous organisms (Carnivora) while pigs evolved from primarily herbivorous organisms (Artiodactyla).Despite this, physical characteristics such as tooth morphology may be reliable indicators of diet in mammals, with such morphological adaptation having been observed in bears.</p>
+            </div>
+        </Section>
+    </body>
+</html>
