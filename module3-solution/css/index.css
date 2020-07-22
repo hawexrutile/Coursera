@@ -1,0 +1,43 @@
+body{
+    background-color: #5B84B1FF;
+}
+#nb-nav {
+    height: 110px;
+    background-color: #FC766AFF;
+}
+.navbar-default .navbar-nav>li>a{
+    color:#5B84B1FF;
+    font-size: large;
+    font-weight: bold;
+    border: 1px #5B84B1FF solid;
+    
+    border-bottom: 0px;
+}
+.navbar-brand {
+    padding: 25px;
+    width: 250px;
+    height:100px
+}
+#menu{
+    background-color:#FC766AFF;
+    
+}
+h1{
+    margin:0;
+    font-weight: bold;
+    color: #5B84B1FF;
+
+}
+h2{
+    color: #FC766AFF;
+    margin: 20px;
+    
+}
+
+#body{
+    top:80px;
+    height:1000px;
+    background-color: #FC766AFF;
+    
+}
+
