@@ -5,15 +5,12 @@ body{
     height: 110px;
     background-color: #FC766AFF;
 }
-.navbar-default .navbar-nav{
-    border: solid white 2px;
-}
 .navbar-default .navbar-nav>li>a{
     color:#5B84B1FF;
     font-size: large;
     font-weight: bold;
-    border-bottom:solid #5B84B1FF;
-    
+    border: solid #FC766AFF 1px;
+    border-bottom: 0px;
 }
 .navbar-brand {
     padding: 25px;
@@ -31,27 +28,15 @@ h1{
 
 }
 h2{
-    color: white;
+    color: #FC766AFF;
     margin: 20px;
-    font-size: 5em;
     
 }
 
-.nb-mbody>div{
-    padding:10px 10px 10px ;
-    top: 80px;
-    
-}
-
-.nb-mbody div div{
-    height:500px;
+#body{
+    top:80px;
+    height:1000px;
     background-color: #FC766AFF;
     
-    color:white;
-    
 }
-h3{
-    font-size: 4em;
-}
-
 
