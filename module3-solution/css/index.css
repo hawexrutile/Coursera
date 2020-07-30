@@ -5,12 +5,15 @@ body{
     height: 110px;
     background-color: #FC766AFF;
 }
+.navbar-default .navbar-nav{
+    border: solid white 2px;
+}
 .navbar-default .navbar-nav>li>a{
     color:#5B84B1FF;
     font-size: large;
     font-weight: bold;
-    border: solid #FC766AFF 1px;
-    border-bottom: 0px;
+    border-bottom:solid #5B84B1FF;
+    
 }
 .navbar-brand {
     padding: 25px;
@@ -28,15 +31,27 @@ h1{
 
 }
 h2{
-    color: #FC766AFF;
+    color: white;
     margin: 20px;
+    font-size: 5em;
     
 }
 
-#body{
-    top:80px;
-    height:1000px;
-    background-color: #FC766AFF;
+.nb-mbody>div{
+    padding:10px 10px 10px ;
+    top: 80px;
     
 }
+
+.nb-mbody div div{
+    height:500px;
+    background-color: #FC766AFF;
+    
+    color:white;
+    
+}
+h3{
+    font-size: 4em;
+}
+
 
