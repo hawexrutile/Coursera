@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# About Me
+<a href="https://www.instagram.com/hawexrutile/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/hawexrutile">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/hawexrutile">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hawexrutile/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-You can use the [editor on GitHub](https://github.com/hawexrutile/HAWTRIES/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://visitor-badge.glitch.me/badge?page_id=hawexrutile.hawexrutile)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br />
 
-### Markdown
+Hi, I'm [Alan Biju John](https://hawexrutile.github.io/Portfolio/main/index.html).I am a high-energy physics enthusiast. I love learning about QGP and diving deeper into the hot mess it creates😉.
+To know more about me, procastinate arround [here](https://hawexrutile.github.io/Portfolio/main/index.html) where I introduce myself and give a brief introduction to my projects. This is a dump room for my coursera assignments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+📈 my github stats
 
-- Bulleted
-- List
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hawexrutile&show_icons=true&theme=gotham" alt="hawexrutile" />
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hawexrutile/HAWTRIES/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
